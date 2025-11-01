@@ -3,7 +3,7 @@ A simple Go app to serve a static site
 
 # Run the app
 
-    go run main.go
+    go run main.go sd
 
 # To deploy
 
